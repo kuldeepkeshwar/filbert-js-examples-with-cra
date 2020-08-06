@@ -1,7 +1,6 @@
-/*@jsx jsx */
 
 import { Global, styled, css } from "@filbert-js/macro";
-import { jsx } from "@filbert-js/core";
+
 
 import React from "react";
 
