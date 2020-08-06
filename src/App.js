@@ -4,7 +4,7 @@ import { Global, styled, css } from "@filbert-js/macro";
 
 import React from "react";
 
-const Heading = styled("h1")`
+const Heading = styled.h1`
   outline: none;
   text-decoration: none;
   font-weight: 300;
@@ -22,10 +22,10 @@ const Heading = styled("h1")`
     text-decoration: none;
   }
 `;
-const Small = styled("div")`
+const Small = styled.div`
   color: black;
 `;
-const Container = styled("div")`
+const Container = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
