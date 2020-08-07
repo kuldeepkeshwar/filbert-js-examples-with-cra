@@ -1,2 +1,1 @@
-# filbert-js-examples-with-cra
-Created with CodeSandbox
+A starter kit using [React](https://reactjs.org/)(CRA) and [filbert-js](http://filbert-js.vercel.app/)
